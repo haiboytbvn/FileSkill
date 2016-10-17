@@ -1,0 +1,14 @@
+﻿  function.cpp
+  FileSkill.cpp
+  5.CheckExistFile.cpp
+e:\dev\c++\anlab\fileskill\fileskill\5.checkexistfile.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  4.SaveObjects.cpp
+e:\dev\c++\anlab\fileskill\fileskill\4.saveobjects.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  1.ReadAndPrintNumber.cpp
+  commonFunction.cpp
+  3.ReadAndPrintNumberFloat.cpp
+  2.ReadAndPrintNumberNotLoop.cpp
+  FileSkill.vcxproj -> E:\DEV\C++\Anlab\FileSkill\Debug\FileSkill.exe
+  FileSkill.vcxproj -> E:\DEV\C++\Anlab\FileSkill\Debug\FileSkill.pdb (Full PDB)
